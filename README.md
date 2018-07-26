@@ -1,5 +1,6 @@
 - References:
     *   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
+    *   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
     *   [Ruby Code Convention](https://github.com/rubocop-hq/ruby-style-guide)
     *   [Ruby on Rails Book](https://www.railstutorial.org/book)
     *   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
