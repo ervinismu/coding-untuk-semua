@@ -8,7 +8,7 @@
 -[Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
 
 ### Ruby on Rails
-    *   [Ruby on Rails Book](https://www.railstutorial.org/book)
+-   [Ruby on Rails Book](https://www.railstutorial.org/book)
 
 - Stylish Ruby
 	*	two spaces
