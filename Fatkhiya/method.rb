@@ -5,7 +5,7 @@ end
 adding(1,2,3,4)
 
 #Multi line block
-def cetak5x()
+def print5x()
 	5.times {puts "Hai"}
 end
-cetak5x
+print5x
