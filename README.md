@@ -1,3 +1,10 @@
+- References:
+    *   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
+    *   [Ruby Code Convention](https://github.com/rubocop-hq/ruby-style-guide)
+    *   [Ruby on Rails Book](https://www.railstutorial.org/book)
+    *   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
+    *   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
+
 - Stylish Ruby
 	*	two spaces
 	*	using snake_case for define method/variable/file
