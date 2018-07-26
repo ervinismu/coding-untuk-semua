@@ -10,6 +10,8 @@
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 
+
+### Ruby Basic
 - Stylish Ruby
 	*	two spaces
 	*	using snake_case for define method/variable/file
@@ -171,3 +173,5 @@ You'll often a piece of code that needs to be executed many times in a program. 
         primary_colors.each do |color|<br />
           puts "Primary Color #{color} is #{color.length} letters long."<br />
         end<br />
+
+### Ruby OOP
