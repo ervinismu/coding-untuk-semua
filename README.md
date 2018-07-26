@@ -5,13 +5,52 @@
 	*	block using do/end, prefer {} when expression fits on one line
 
 - Type Data
-	*	Float <br/>
-		1.234
+   *   Array <br />
+       Ruby arrays are ordered collections of objects. They can hold objects like integer, number, hash, string, symbol or any other array. <br />
+       example : <br />
+       arr = [1,2,3,4,5]
+   *   Hashes <br />
+       A Hash is a collection of key-value pairs like this: “employee” => “salary”. 
+       example : <br />
+       hashes = {:name => "erpin"}
+   *   Boolean <br />
+       true/false <br />
+       Operators : <br />
+       ! , != , == , > , < , <= , >= , && , ||
+   *   Symbol <br  />
+       Symbol is similar to String but a symbol can’t be changed.The symbol, however, is immutable. This means that its state can’t be modified after it is created and it will always be the same size in memory. <br />
+       example: <br />
+       :name <br />
+       When should you use Symbols? <br />
+       -   To Identify Something
+       -   Used in method calls
+   *   Number <br />
+       -   Float <br />
+           Float is basically with decimal points. e.g. 34.09988776.
+       -   Fixnum <br />
+            Fixnum known as an Integer. A number with no decimal point, e.g. 52.
 	*	String <br/>
-		using ( " " ) for string
-	* Symbol <br/>
-		using ( : )for refernces like a string but don't ever intend to print it to the screen or change
-	
+		using ( " " ) or (' ') for string. <br />
+        Methods are often used daily : <br />
+        "Parthiv" + "Patel" <br />
+         => "ParthivPatel" <br />
+        "hi" + "hi" + "hi" <br />
+         => "hihihi" <br />
+        "hi" * 3 <br />
+         => "hihihi" <br />
+        "1" + "1" + "1" <br />
+         => "111" <br />
+        "1" * 3 <br />
+         => "111" <br />
+        "hello".upcase <br />
+         => "HELLO" <br />
+        "hello".capitalize <br />
+         => "Hello" <br />
+        "hello".length <br />
+         => 5 <br />
+        "hello".reverse <br />
+         => "olleh" <br />
+
 -	Operations
 	*	Adding <br/>
 		example: 1 + 1
@@ -71,3 +110,52 @@ You'll often a piece of code that needs to be executed many times in a program. 
 	loop do  <br/>
 		puts "ctrl + c for stop this loop" <br/>
 	end
+    *   Controling Loop <br />  
+    iterations = 1 <br/>
+    loop do <br/>
+     puts “Number of iterations = #{iterations}” <br/>
+     iterations += 1 <br/>
+     break if iterations > 5 <br/>
+    end <br/>
+    *   While Loop <br />
+    arr = [1,2,3,4,5] <br />
+    i = 0 <br />
+    while i < arr.length <br />
+        item = arr[i] <br />
+        puts "this is a #{item}" <br />
+        i += 1 <br />
+    end <br />
+    * times <br />
+        7.times do <br />
+          puts "Stop hitting yourself!" <br />
+        end <br />
+
+-   Iterations
+    Iterators are nothing but methods supported by collections. <br />
+    Objects that store a group of data members are called collections. In Ruby, arrays and hashes can be termed collections. <br />
+    example : <br />
+    *   each
+        #!/usr/bin/ruby<br />
+        ary = [1,2,3,4,5]<br />
+        ary.each do |i|<br />
+           puts i<br />
+        end<br />
+        You always associate the each iterator with a block. It returns each value of the array, one by one, to the block. <br /> 
+        The value is stored in the variable i and then displayed on the screen. <br />
+
+-   Looping vs Iterasi
+    Looping is a programming construct that allows you to tell your program to do something a certain number of times, or until a certain condition is met.<br /> 
+    It is a mechanism to repeat a selection of code. <br />
+    Iteration, on the other hand, is a way to operate on a collection object, like an array, and do something with each element in that collection.<br />
+    *   While Loop
+        brothers = ["Tom", "Tim", "Jim"]<br />
+        count = 0<br />
+        while count <= brothers.length-1 <br />
+          puts "Stop hitting yourself #{brothers[count]}!" <br />
+          count += 1 <br />
+        end<br />
+    *   Each
+        primary_colors = ["Red", "Yellow", "Blue"]<br />
+        primary_colors.each do |color|<br />
+          puts "Primary Color #{color} is #{color.length} letters long."<br />
+        end<br />
