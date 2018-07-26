@@ -130,11 +130,11 @@ You'll often a piece of code that needs to be executed many times in a program. 
           puts "Stop hitting yourself!" <br />
         end <br />
 
--   Iterations
+-   Iterations<br />
     Iterators are nothing but methods supported by collections. <br />
     Objects that store a group of data members are called collections. In Ruby, arrays and hashes can be termed collections. <br />
     example : <br />
-    *   each
+    *   each <br />
         #!/usr/bin/ruby<br />
         ary = [1,2,3,4,5]<br />
         ary.each do |i|<br />
@@ -143,18 +143,18 @@ You'll often a piece of code that needs to be executed many times in a program. 
         You always associate the each iterator with a block. It returns each value of the array, one by one, to the block. <br /> 
         The value is stored in the variable i and then displayed on the screen. <br />
 
--   Looping vs Iterasi
+-   Looping vs Iterasi<br />
     Looping is a programming construct that allows you to tell your program to do something a certain number of times, or until a certain condition is met.<br /> 
     It is a mechanism to repeat a selection of code. <br />
     Iteration, on the other hand, is a way to operate on a collection object, like an array, and do something with each element in that collection.<br />
-    *   While Loop
+    *   While Loop <br />
         brothers = ["Tom", "Tim", "Jim"]<br />
         count = 0<br />
         while count <= brothers.length-1 <br />
           puts "Stop hitting yourself #{brothers[count]}!" <br />
           count += 1 <br />
         end<br />
-    *   Each
+    *   Each <br />
         primary_colors = ["Red", "Yellow", "Blue"]<br />
         primary_colors.each do |color|<br />
           puts "Primary Color #{color} is #{color.length} letters long."<br />
