@@ -1,3 +1,19 @@
+## Reference Reading:
+### Ruby
+-   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
+-   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
+-   [Ruby Code Convention](https://github.com/rubocop-hq/ruby-style-guide)
+-   [Ruby Monk](https://rubymonk.com/)
+-   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
+-[Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
+
+### Ruby on Rails
+-   [Ruby on Rails Book](https://www.railstutorial.org/book)
+
+## Ruby
+-   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
+
+### Ruby Basic
 - Stylish Ruby
 	*	two spaces
 	*	using snake_case for define method/variable/file
