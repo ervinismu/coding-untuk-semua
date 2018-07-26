@@ -175,3 +175,4 @@ You'll often a piece of code that needs to be executed many times in a program. 
         end<br />
 
 ### Ruby OOP
+[OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
