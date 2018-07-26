@@ -63,7 +63,8 @@ single(attack, shirt_number)
 
 
 #Soal 5 :iteration
-shirt_number.each do |i|
-  j = i % 3
-  puts "His number mod by 3 = #{j}"
-end
+#shirt_number.each do |i|
+#  j = i % 3
+#  puts "His number mod by 3 = #{j}"
+#end
+shirt_number.map {|v| puts "His number plus 2 = #{v + 2}" }
