@@ -10,6 +10,8 @@
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 
+## Ruby
+-   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
 
 ### Ruby Basic
 - Stylish Ruby
@@ -173,6 +175,3 @@ You'll often a piece of code that needs to be executed many times in a program. 
         primary_colors.each do |color|<br />
           puts "Primary Color #{color} is #{color.length} letters long."<br />
         end<br />
-
-### Ruby OOP
-[OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
