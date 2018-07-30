@@ -7,6 +7,7 @@
 -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
 -   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
 -   [Awesome Ruby Project](http://awesome-ruby.com/)
+-   [IdRails](http://www.idrails.com/series)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
