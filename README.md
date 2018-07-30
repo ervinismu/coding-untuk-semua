@@ -1,15 +1,18 @@
-## References:
+## Reference Reading:
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
 -   [Ruby Code Convention](https://github.com/rubocop-hq/ruby-style-guide)
 -   [Ruby Monk](https://rubymonk.com/)
 -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
--[Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
+-   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
+-   [Awesome Ruby Project](http://awesome-ruby.com/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 
+## Ruby
+-   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
 
 ### Ruby Basic
 - Stylish Ruby
@@ -173,6 +176,3 @@ You'll often a piece of code that needs to be executed many times in a program. 
         primary_colors.each do |color|<br />
           puts "Primary Color #{color} is #{color.length} letters long."<br />
         end<br />
-
-### Ruby OOP
-[OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
