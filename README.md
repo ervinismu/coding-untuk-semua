@@ -16,7 +16,7 @@
 
 ## Ruby
 -   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
--   
+
 ### Ruby Basic
 - Stylish Ruby
 	*	two spaces
