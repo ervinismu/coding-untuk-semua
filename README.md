@@ -1,4 +1,3 @@
-
 }plspapalsplaplsals
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
@@ -17,6 +16,9 @@
 
 ## Ruby
 -   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
+
+## Postgresql
+-   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
 
 ### Ruby Basic
 - Stylish Ruby
