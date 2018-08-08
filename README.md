@@ -8,9 +8,12 @@
 -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
 -   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
 -   [Awesome Ruby Project](http://awesome-ruby.com/)
+-   [IdRails](http://www.idrails.com/series)
+-   [Railscasts](http://railscasts.com/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
+-   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
 ## Ruby
 -   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
