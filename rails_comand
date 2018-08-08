@@ -11,7 +11,7 @@ RAILS COMMAND:
 -	rake db:drop	// drop databse in rails
 -	rake db:rollback	// for undo migration in rails
 -	rake db:seed	// add seed data in rails from seed.rb
-- rails routes // for show url in app
-- rails console	// for query(acive record in rails)
+-   rails routes // for show url in app
+-   rails console	// for query(acive record in rails)
 
-- rails new <nameapp> --d=postgresql // generate project with postgresql db
+-   rails new <nameapp> --database=postgresql // generate project with postgresql db
