@@ -1,4 +1,3 @@
-}plspapalsplaplsals
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
@@ -14,11 +13,9 @@
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 -   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
-## Ruby
--   [OOP Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/OOP.md)
-
 ## Postgresql
 -   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+
 
 ### Ruby Basic
 - Stylish Ruby
