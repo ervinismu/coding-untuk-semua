@@ -16,6 +16,8 @@
 ## Postgresql
 -   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
 
+## Deploy
+-   [Deploy Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 ### Ruby Basic
 - Stylish Ruby
