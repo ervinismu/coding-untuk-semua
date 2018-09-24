@@ -1,6 +1,9 @@
 # Resources
 Resources for learning, open contribute :
 
+### Git
+-   [Book Git](https://books.goalkicker.com/GitBook/)
+
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
@@ -17,6 +20,7 @@ Resources for learning, open contribute :
 -   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
 ## Postgresql
+-   [Book Postgresql](https://books.goalkicker.com/PostgreSQLBook/)
 -   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
 
 ## Deploy
