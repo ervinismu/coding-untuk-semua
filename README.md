@@ -1,4 +1,5 @@
 # Resources
+Resources for learning, open contribute :
 
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
