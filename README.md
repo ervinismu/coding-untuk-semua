@@ -3,6 +3,7 @@ Resources for learning, open contribute :
 
 ### Git
 -   [Book Git](https://books.goalkicker.com/GitBook/)
+-   [Git Intro](https://git-scm.com/book/id/v1/Memulai-Git-Tentang-Version-Control)
 
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
