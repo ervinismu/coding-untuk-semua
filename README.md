@@ -3,6 +3,7 @@ Resources for learning, open contribute :
 
 ### References writing code
 -   [S.O.L.I.D principles](https://robots.thoughtbot.com/back-to-basics-solid)
+-   [Software Arcitecture](https://sourcemaking.com/)
 
 ### Git
 -   [Book Git](https://books.goalkicker.com/GitBook/)
