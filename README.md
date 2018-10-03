@@ -1,6 +1,9 @@
 # Resources
 Resources for learning, open contribute :
 
+### References writing code
+-   [S.O.L.I.D principles](https://robots.thoughtbot.com/back-to-basics-solid)
+
 ### Git
 -   [Book Git](https://books.goalkicker.com/GitBook/)
 -   [Git Intro](https://git-scm.com/book/id/v1/Memulai-Git-Tentang-Version-Control)
