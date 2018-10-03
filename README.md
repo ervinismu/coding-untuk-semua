@@ -1,7 +1,7 @@
 # Resources
 Resources for learning, open contribute :
 
-### References writing code
+### Software Design Principles
 -   [S.O.L.I.D principles](https://robots.thoughtbot.com/back-to-basics-solid)
 -   [Software Arcitecture](https://sourcemaking.com/)
 
