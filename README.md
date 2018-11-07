@@ -1,6 +1,9 @@
 # Resources
 Resources for learning, open contribute :
 
+### Pre
+-  [Data Structure and Algorithm](https://www.geeksforgeeks.org/array-data-structure/)
+
 ### Software Design Principles
 -   [S.O.L.I.D principles](https://robots.thoughtbot.com/back-to-basics-solid)
 -   [Software Arcitecture](https://sourcemaking.com/)
