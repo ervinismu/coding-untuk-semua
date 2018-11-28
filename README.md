@@ -33,7 +33,6 @@ Resources for learning, open contribute :
 
 ## Deploy
 -   [Deploy Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
--   
 
 ## CI/CD
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
