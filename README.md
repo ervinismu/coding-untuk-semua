@@ -22,6 +22,7 @@ Resources for learning, open contribute :
 -   [Awesome Ruby Project](http://awesome-ruby.com/)
 -   [IdRails](http://www.idrails.com/series)
 -   [Railscasts](http://railscasts.com/)
+-   [RubyHardWay](https://learnrubythehardway.org/book/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
