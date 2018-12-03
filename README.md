@@ -37,3 +37,6 @@ Resources for learning, open contribute :
 
 ## CI/CD
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
+
+## Tutorials
+- [Rails Mailer](https://launchschool.com/blog/handling-emails-in-rails)
