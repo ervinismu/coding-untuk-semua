@@ -38,5 +38,8 @@ Resources for learning, open contribute :
 ## CI/CD
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
 
-## Tutorials
+## Rails Tutorials
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
+
+## Virtualization
+- [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
