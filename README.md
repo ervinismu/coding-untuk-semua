@@ -39,4 +39,4 @@ Resources for learning, open contribute :
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
 
 ## Tutorials
-- [Rails Mailer](https://launchschool.com/blog/handling-emails-in-rails)
+- [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
