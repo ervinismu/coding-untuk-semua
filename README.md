@@ -39,6 +39,7 @@ Resources for learning, open contribute :
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
 
 ## Rails Tutorials
+- [Deploy Rails on Ubuntu 14.04](https://gorails.com/deploy/ubuntu/14.04)
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
