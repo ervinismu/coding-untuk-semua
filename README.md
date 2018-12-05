@@ -41,5 +41,7 @@ Resources for learning, open contribute :
 ## Rails Tutorials
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
-## Virtualization
+## Server
 - [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
+- [Setup nginx ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
+- [Initial Server Setup Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
