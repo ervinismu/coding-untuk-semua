@@ -37,6 +37,7 @@ Resources for learning, open contribute :
 
 ## CI/CD
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
+- [.gitlab-ci Variables](https://docs.gitlab.com/ee/ci/variables/)
 
 ## Rails Tutorials
 - [Deploy Rails on Ubuntu 14.04](https://gorails.com/deploy/ubuntu/14.04)
