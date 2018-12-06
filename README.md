@@ -1,5 +1,5 @@
 # Resources
-Resources for learning, open contribute :
+Resources for learning lang and framework ruby
 
 ### Pre
 -  [Data Structure and Algorithm](https://www.geeksforgeeks.org/data-structures/)
