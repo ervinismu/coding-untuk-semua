@@ -23,6 +23,7 @@ Resources for learning lang and framework ruby
 -   [IdRails](http://www.idrails.com/series)
 -   [Railscasts](http://railscasts.com/)
 -   [RubyHardWay](https://learnrubythehardway.org/book/)
+-   [Ruby Guides](https://www.rubyguides.com/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
