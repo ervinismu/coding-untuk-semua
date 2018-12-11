@@ -44,6 +44,7 @@ Resources for learning lang and framework ruby
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
+- [SSL Setup with Nginx + Certbot](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
 - [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
 - [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
 - [Setup nginx ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
