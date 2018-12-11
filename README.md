@@ -33,9 +33,6 @@ Resources for learning lang and framework ruby
 -   [Book Postgresql](https://books.goalkicker.com/PostgreSQLBook/)
 -   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
 
-## Deploy
--   [Deploy Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-
 ## CI/CD
 - [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
 - [.gitlab-ci Variables](https://docs.gitlab.com/ee/ci/variables/)
@@ -44,6 +41,7 @@ Resources for learning lang and framework ruby
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
+- [Deploy Rails to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 - [SSL Setup with Nginx + Certbot](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
 - [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
 - [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
