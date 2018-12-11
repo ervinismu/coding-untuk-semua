@@ -44,6 +44,7 @@ Resources for learning lang and framework ruby
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
+- [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
 - [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
 - [Setup nginx ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 - [Deploy Rails with Nginx and Puma](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04)
