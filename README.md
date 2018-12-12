@@ -44,10 +44,10 @@ Resources for learning lang and framework ruby
 - [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
-- [Deploy Rails to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-- [SSL Setup with Nginx + Certbot](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
-- [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
 - [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
+- [Deploy Rails to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+- [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
+- [Initial Server Setup Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 - [Setup nginx ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 - [Deploy Rails with Nginx and Puma](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04)
-- [Initial Server Setup Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+- [SSL Setup with Nginx + Certbot](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
