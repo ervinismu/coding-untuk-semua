@@ -1,5 +1,5 @@
 # Resources
-Resources for learning lang and framework ruby
+Resources for learning lang and framework :
 
 ### Pre
 -  [Data Structure and Algorithm](https://www.geeksforgeeks.org/data-structures/)
@@ -14,3 +14,8 @@ Resources for learning lang and framework ruby
 ### Git
 -   [Book Git](https://books.goalkicker.com/GitBook/)
 -   [Git Intro](https://git-scm.com/book/id/v1/Memulai-Git-Tentang-Version-Control)
+
+
+## Progamming Lang :
+- [Javascript]: https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md
+- [Ruby]: https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md
