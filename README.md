@@ -17,5 +17,5 @@ Resources for learning lang and framework :
 
 
 ## Progamming Lang :
-- [Javascript]: https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md
-- [Ruby]: https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md
+- [Javascript](https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md)
+- [Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md)
