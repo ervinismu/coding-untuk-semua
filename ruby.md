@@ -17,6 +17,8 @@ Resources for learning lang and framework ruby
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 -   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+-   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
+-   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Postgresql
 -   [Book Postgresql](https://books.goalkicker.com/PostgreSQLBook/)
@@ -25,10 +27,6 @@ Resources for learning lang and framework ruby
 ## CI/CD
 -   [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
 -   [.gitlab-ci Variables](https://docs.gitlab.com/ee/ci/variables/)
-
-## Tutorials
--   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
--   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
 ## Server
 -   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
