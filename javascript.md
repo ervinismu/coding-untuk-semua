@@ -10,7 +10,7 @@ Resources for learning Javascript, open contribute :
 
 ### Nodejs Basics
 -  [Nodejs Introduction | W3schools](https://www.w3schools.com/nodejs/default.asp)
--  [Nodejs for Beginners | Projects](https://www.youtube.com/watch?v=w-7RQ46RgxU&index=1&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+-  [Nodejs for Beginners | The Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&index=1&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 ### Server
 -  [Deploy Nodejs to Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
