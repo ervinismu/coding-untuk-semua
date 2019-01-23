@@ -1,6 +1,9 @@
 # Resources
 Resources for learning lang and framework ruby
 
+### Update about ruby
+-   [Ruby Weekly](https://rubyweekly.com/)
+
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
