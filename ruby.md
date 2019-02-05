@@ -23,14 +23,6 @@ Resources for learning lang and framework ruby
 -   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
 -   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 
-## Postgresql
--   [Book Postgresql](https://books.goalkicker.com/PostgreSQLBook/)
--   [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
-
-## CI/CD
--   [.gitlab-ci.yml examples](https://docs.gitlab.com/ee/ci/examples/)
--   [.gitlab-ci Variables](https://docs.gitlab.com/ee/ci/variables/)
-
 ## Server
 -   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
 -   [Deploy Rails to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
