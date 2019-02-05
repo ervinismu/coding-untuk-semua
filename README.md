@@ -1,6 +1,6 @@
 # Resources
-:fire: :sunglasses: :fire:  
-Programming for everyone, happy hacking!
+
+>  Programming for everyone, happy hacking! :fire: :sunglasses: :fire:  
 
 ## Git :
 1.  [Git Introduction](https://git-scm.com/book/id/v1/Memulai-Git-Tentang-Version-Control)
