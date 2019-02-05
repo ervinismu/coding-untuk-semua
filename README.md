@@ -1,4 +1,5 @@
 # Resources
+:fire: :sunglasses: :fire:  
 Programming for everyone, happy hacking!
 
 ## Git :
