@@ -1,5 +1,4 @@
-# Resources
-Resources for learning lang and framework ruby
+>  Resources for learning lang and framework ruby
 
 ### Update about ruby
 -   [Ruby Weekly](https://rubyweekly.com/)
