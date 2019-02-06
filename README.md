@@ -17,7 +17,8 @@
 *  [Software Arcitecture](https://sourcemaking.com/)
 *  [S.O.L.I.D principles](https://robots.thoughtbot.com/back-to-basics-solid)
 
-## Postgresql
+## Database
+*  [Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)
 *  [Book Postgresql](https://books.goalkicker.com/PostgreSQLBook/)
 *  [Setup Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
 
