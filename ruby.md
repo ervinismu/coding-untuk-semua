@@ -16,6 +16,7 @@
 -   [RubyHardWay](https://learnrubythehardway.org/book/)
 -   [Ruby Guides](https://www.rubyguides.com/)
 -   [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+-   [PHP to Ruby](https://phptoruby.com/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
