@@ -29,3 +29,7 @@
 ## Programming Language :
 *  [Javascript](https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md)
 *  [Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md)
+
+## Interview :
+
+* [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
