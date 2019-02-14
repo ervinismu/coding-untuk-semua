@@ -29,6 +29,7 @@
 ## Programming Language :
 *  [Javascript](https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md)
 *  [Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md)
+*  [Golang](https://gitlab.com/ervinismu/binar-backend-class/blob/master/golang.md)
 
 ## Interview :
 
