@@ -6,7 +6,7 @@
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
--   [Ruby Code Convention](https://github.com/rubocop-hq/ruby-style-guide)
+-   [Ruby Style Guides](https://github.com/rubocop-hq/ruby-style-guide)
 -   [Ruby Monk](https://rubymonk.com/)
 -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
 -   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
@@ -23,6 +23,7 @@
 -   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 -   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
 -   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
+-   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide)
 
 ## Server
 -   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
