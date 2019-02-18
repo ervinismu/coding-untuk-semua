@@ -1,7 +1,9 @@
 >  Resources for learning lang and framework ruby
 
-### Update about ruby
+### Update about ruby lang/framework
 -   [Ruby Weekly](https://rubyweekly.com/)
+-   [Engine Yard](https://www.engineyard.com/blog/topic/ruby-on-rails)
+
 
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
