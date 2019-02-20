@@ -26,6 +26,7 @@
 -   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
 -   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 -   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide)
+-   [Rails speedshop](https://www.speedshop.co/blog/)
 
 ## Server
 -   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
