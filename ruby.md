@@ -27,6 +27,7 @@
 -   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
 -   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide)
 -   [Rails speedshop](https://www.speedshop.co/blog/)
+-   [Ruby on Rails free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails)
 
 ## Server
 -   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
