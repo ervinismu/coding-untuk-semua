@@ -19,6 +19,7 @@
 -   [Ruby Guides](https://www.rubyguides.com/)
 -   [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 -   [PHP to Ruby](https://phptoruby.com/)
+-   [Make your own gem](https://guides.rubygems.org/make-your-own-gem/)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
