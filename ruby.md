@@ -4,7 +4,6 @@
 -   [Ruby Weekly](https://rubyweekly.com/)
 -   [Engine Yard](https://www.engineyard.com/blog/topic/ruby-on-rails)
 
-
 ### Ruby
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction)
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction)
@@ -20,6 +19,7 @@
 -   [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 -   [PHP to Ruby](https://phptoruby.com/)
 -   [Make your own gem](https://guides.rubygems.org/make-your-own-gem/)
+-   [Ruby Excercism](https://exercism.io/my/tracks/ruby)
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
@@ -29,12 +29,3 @@
 -   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide)
 -   [Rails speedshop](https://www.speedshop.co/blog/)
 -   [Ruby on Rails free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails)
-
-## Server
--   [Vagrant vs Docker Concept](https://www.youtube.com/watch?v=9QGkJvbLpRA)
--   [Deploy Rails to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
--   [Install Vagrant Ubuntu](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
--   [Initial Server Setup Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
--   [Setup nginx ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
--   [Deploy Rails with Nginx and Puma](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04)
--   [SSL Setup with Nginx + Certbot](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
