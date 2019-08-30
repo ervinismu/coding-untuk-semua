@@ -3,12 +3,12 @@
 >  Programming for everyone, happy hacking! :fire: :sunglasses: :fire:
 
 ## Programming Languages:
-*  [General](https://gitlab.com/ervinismu/binar-backend-class/blob/master/general.md)
-*  [Javascript](https://gitlab.com/ervinismu/binar-backend-class/blob/master/javascript.md)
-*  [Ruby](https://gitlab.com/ervinismu/binar-backend-class/blob/master/ruby.md)
-*  [Golang](https://gitlab.com/ervinismu/binar-backend-class/blob/master/golang.md)
-*  [Python](https://gitlab.com/ervinismu/binar-backend-class/blob/master/python.md)
-*  [Elixir](https://gitlab.com/ervinismu/binar-backend-class/blob/master/elixir.md)
+*  [General](https://github.com/ervinismu/binar-backend-class/blob/master/general.md)
+*  [Javascript](https://github.com/ervinismu/binar-backend-class/blob/master/javascript.md)
+*  [Ruby](https://github.com/ervinismu/binar-backend-class/blob/master/ruby.md)
+*  [Golang](https://github.com/ervinismu/binar-backend-class/blob/master/golang.md)
+*  [Python](https://github.com/ervinismu/binar-backend-class/blob/master/python.md)
+*  [Elixir](https://github.com/ervinismu/binar-backend-class/blob/master/elixir.md)
 
 ## Tools and Productivity
 
