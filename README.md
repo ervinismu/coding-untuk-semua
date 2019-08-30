@@ -11,10 +11,13 @@
 *  [Elixir](https://gitlab.com/ervinismu/binar-backend-class/blob/master/elixir.md)
 
 ## Tools and Productivity
-*  [Git](https://git-scm.com/) Open source distributed version control system.
-*  [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/) GitLab CI/CD is a tool built into GitLab for software development through the continuous methodologies:
-*  [Linux Command](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) Basic linux command.
-*  [VIM Cheat Sheet](https://gist.github.com/ervinismu/dc438d3668dbacb04ab36c65c4fb5570) Cheat Sheet for using Vim editor.
+
+| Tables        | Are           |
+| ------------- |---------------|
+| [Git](https://git-scm.com/)                                                           | Open source distributed version control system. | $1600 |
+| [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/)                                       | GitLab CI/CD is a tool built into GitLab for software development through the continuous methodologies      |
+| [Linux Command](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)  | Basic linux command.      |
+| [VIM Cheat Sheet](https://gist.github.com/ervinismu/dc438d3668dbacb04ab36c65c4fb5570) | Cheat Sheet for using Vim editor. |
 
 ## Interview Preparations:
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
