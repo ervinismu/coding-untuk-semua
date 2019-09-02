@@ -23,9 +23,9 @@
 
 ### Ruby on Rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
--   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
--   [FactoryBot Cheet Seat(devhints)](https://devhints.io/factory_bot)
--   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails)
--   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide)
--   [Rails speedshop](https://www.speedshop.co/blog/)
--   [Ruby on Rails free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails)
+-   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one) - Create restful json api using Ruby on Rails 5.
+-   [FactoryBot Cheet Seat](https://devhints.io/factory_bot) - Factory Bot is a helper for writing factories for Ruby tests.
+-   [Sending Email in Rails](https://launchschool.com/blog/handling-emails-in-rails) - Handling send emails in Ruby on Rails.
+-   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide) - Rubocop for Ruby on Rails style guide.
+-   [Rails speedshop](https://www.speedshop.co/blog/) - The #1 Rails performance blog on the web
+-   [Ruby on Rails free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails) - List of free Ruby on Rails books.
