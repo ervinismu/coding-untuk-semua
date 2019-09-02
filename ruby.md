@@ -8,17 +8,17 @@
 -   [Book Ruby Basic](https://launchschool.com/books/ruby/read/introduction) - Intro to Programming using Ruby.
 -   [Book Ruby OOP(Object Oriented Programming)](https://launchschool.com/books/oo_ruby/read/introduction) - Object Oriented Programming using Ruby.
 -   [Ruby Style Guides](https://github.com/rubocop-hq/ruby-style-guide) - A community-driven Ruby coding style guide https://rubystyle.guide
--   [Ruby Monk](https://rubymonk.com/)
+-   [Ruby Monk](https://rubymonk.com/) - Free, interactive tutorials to help you discover Ruby idioms, in your browser!
 -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
--   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby)
--   [Awesome Ruby Project](http://awesome-ruby.com/)
--   [IdRails](http://www.idrails.com/series)
--   [Railscasts](http://railscasts.com/)
--   [RubyHardWay](https://learnrubythehardway.org/book/)
--   [Ruby Guides](https://www.rubyguides.com/)
--   [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
--   [PHP to Ruby](https://phptoruby.com/)
--   [Make your own gem](https://guides.rubygems.org/make-your-own-gem/)
+-   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby) - Learn to code for free
+-   [Awesome Ruby Project](http://awesome-ruby.com/) - A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software.
+-   [IdRails Ruby Series](http://www.idrails.com/series/belajar-ruby) - Learn ruby in Indonesian language
+-   [Railscasts](http://railscasts.com/) - Ruby on rails Screencasts
+-   [RubyHardWay](https://learnrubythehardway.org/book/) - Learn ruby the hardway online book.
+-   [Ruby Guides](https://www.rubyguides.com/) - Become A Ruby Programming Expert With RubyGuides
+-   [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html) - Ruby exceptions
+-   [PHP to Ruby](https://phptoruby.com/) - Convert PHP Code into Ruby.
+-   [Make your own gem](https://guides.rubygems.org/make-your-own-gem/) - From start to finish, learn how to package your Ruby code in a gem.
 -   [Ruby Excercism](https://exercism.io/my/tracks/ruby)
 
 ### Ruby on Rails
