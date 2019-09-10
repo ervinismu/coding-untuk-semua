@@ -20,8 +20,10 @@
 -   [PHP to Ruby](https://phptoruby.com/) - Convert PHP Code into Ruby.
 -   [Make your own gem](https://guides.rubygems.org/make-your-own-gem/) - From start to finish, learn how to package your Ruby code in a gem.
 -   [Ruby Excercism](https://exercism.io/my/tracks/ruby)
+-   [Ruby-toolbox](https://www.ruby-toolbox.com/) - Find actively maintained & popular open source software libraries for the Ruby programming language
 
 ### Ruby on Rails
+-   [Gorails](https://gorails.com/) - Learn ruby on rails
 -   [Ruby on Rails Book](https://www.railstutorial.org/book)
 -   [Ruby on rails api](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one) - Create restful json api using Ruby on Rails 5.
 -   [FactoryBot Cheet Seat](https://devhints.io/factory_bot) - Factory Bot is a helper for writing factories for Ruby tests.
