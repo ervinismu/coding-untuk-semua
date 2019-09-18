@@ -1,6 +1,6 @@
 # Resources
 
->  Programming for everyone, happy hacking! :fire: :sunglasses: :fire:
+>  Coding Untuk Semua! :fire: :sunglasses: :fire:
 
 ## Algorithms
 * [Big O Notation](https://github.com/ervinismu/everyone-write-code/blob/master/Algorithms/bigoNotation.md)
