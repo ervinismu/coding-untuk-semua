@@ -2,6 +2,9 @@
 
 >  Programming for everyone, happy hacking! :fire: :sunglasses: :fire:
 
+## Algorithms
+* [Big O Notation](https://github.com/ervinismu/everyone-write-code/blob/master/Algorithms/bigoNotation.md)
+
 ## Programming Languages:
 *  [General](https://github.com/ervinismu/everyone-write-code/blob/master/general.md)
 *  [Javascript](https://github.com/ervinismu/everyone-write-code/blob/master/javascript.md)
