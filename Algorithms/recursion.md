@@ -49,7 +49,7 @@ Faktorial dalam matematika sering ditulis sebagai 5! yang diartikan 5 * 4 * 3 * 
   end
 ```
 
-#### Recursive vs Iteration
+## Recursive vs Iteration
 Konsep recursive dan iteration adalah dengan melakukkan serangkaian intruksi berulang kali, perbedaan diantara
 keduanya adalah `recursive menggunakkan pemanggilan metode/fungsi dimana metode/fungsi yang dipanggil adalah sama`,
 sedangkan `iteration menggunakkan loop berulang kali sampai kondisi tertentu dipenuhi`,
