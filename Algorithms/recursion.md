@@ -49,6 +49,12 @@ Faktorial dalam matematika sering ditulis sebagai 5! yang diartikan 5 * 4 * 3 * 
   end
 ```
 
+#### Recursive vs Iteration
+Konsep recursive dan iteration adalah dengan melakukkan serangkaian intruksi berulang kali, perbedaan diantara keduanya  
+adalah `recursive menggunakkan pemanggilan metode/fungsi dimana metode/fungsi yang dipanggil adalah sama`, sedangkan  
+`iteration menggunakkan loop berulang kali sampai kondisi tertentu dipenuhi`.  
+Recursive dan iteration tergantung pada suatu kondisi untuk mengetahui kapan mereka harus berhenti.
+
 #### Referensi
 * [stackoverflow](https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it/3093#3093) - what is recursive and when should i use it
 * [ruby bastards book](http://ruby.bastardsbook.com/chapters/recursion/) - recursion
