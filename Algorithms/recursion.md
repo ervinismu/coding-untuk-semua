@@ -48,3 +48,9 @@ Faktorial dalam matematika sering ditulis sebagai 5! yang diartikan 5 * 4 * 3 * 
     num * recursive_fact(num - 1)
   end
 ```
+
+#### Referensi
+* [stackoverflow](https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it/3093#3093) - what is recursive and when should i use it
+* [ruby bastards book](http://ruby.bastardsbook.com/chapters/recursion/) - recursion
+* [leighhalliday](https://www.leighhalliday.com/recursion-in-ruby) - recursive in ruby
+* [ruby guides](https://www.rubyguides.com/2015/08/ruby-recursion-and-memoization/) - ruby recursive and memorization
