@@ -50,10 +50,16 @@ Faktorial dalam matematika sering ditulis sebagai 5! yang diartikan 5 * 4 * 3 * 
 ```
 
 #### Recursive vs Iteration
-Konsep recursive dan iteration adalah dengan melakukkan serangkaian intruksi berulang kali, perbedaan diantara keduanya  
-adalah `recursive menggunakkan pemanggilan metode/fungsi dimana metode/fungsi yang dipanggil adalah sama`, sedangkan  
-`iteration menggunakkan loop berulang kali sampai kondisi tertentu dipenuhi`.  
-Recursive dan iteration tergantung pada suatu kondisi untuk mengetahui kapan mereka harus berhenti.
+Konsep recursive dan iteration adalah dengan melakukkan serangkaian intruksi berulang kali, perbedaan diantara
+keduanya adalah `recursive menggunakkan pemanggilan metode/fungsi dimana metode/fungsi yang dipanggil adalah sama`,
+sedangkan `iteration menggunakkan loop berulang kali sampai kondisi tertentu dipenuhi`,
+recursive dan iteration tergantung pada suatu kondisi untuk mengetahui kapan mereka harus berhenti.
+
+Dalam Ruby seringkali lebih baik untuk menghindari recursive dan menggunakan iteration sebagai gantinya. Ruby (dan sebagian besar bahasa pemrograman penting) memiliki konstruksi bahasa yang sangat berguna untuk membantu pengulangan data.
+
+Recursive dapat menjadi lebih lambat dan menggunakan lebih banyak memori daripada iteration karena sejumlah alasan yang dibahas di sini di [Stack Overflow](https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it/3093#3093).
+
+Bahasa tertentu, terutama bahasa fungsional yang berhubungan dengan data yang tidak dapat diubah (Elixir, Haskell, dll ...), tidak memiliki konstruksi bahasa sama sekali untuk menangani iteration dan semuanya dilakukan melalui recursive. Bahasa-bahasa ini dioptimalkan untuk recursion menggunakan teknik yang disebut [tail call optimization](https://en.wikipedia.org/wiki/Tail_call) dan juga dilengkapi dengan pattern matching yang berguna untuk berurusan dengan head dan tail array
 
 #### Referensi
 * [stackoverflow](https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it/3093#3093) - what is recursive and when should i use it
