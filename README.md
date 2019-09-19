@@ -5,6 +5,7 @@
 ### Algoritma dan Struktur Data
 * [Big O Notation](https://github.com/ervinismu/everyone-write-code/blob/master/Algorithms/bigoNotation.md)
 * [Recursive](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/recursion.md)
+* [Queue](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/queue.md)
 
 ### Bahasa Pemrograman:
 *  [General](https://github.com/ervinismu/everyone-write-code/blob/master/general.md)
