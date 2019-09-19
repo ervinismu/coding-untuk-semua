@@ -19,3 +19,59 @@ queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk memasukkan data(enq
    * peek() - mendapatkn elemen di depan antrian tanpa menghapusnya.
    * isfull() - memeriksa apakah antrian penuh
    * isempty() - memeriksa apakah antrian penuh
+
+## Contoh Kode Ruby
+Contoh implementasi kode Ruby untuk queue
+```ruby
+  class MyQueue
+    # untuk melakukkan error handling
+    QueueFull  = Class.new(StandardError)
+    QueueEmpty = Class.new(StandardError)
+
+    attr_reader :queue
+
+    def initialize(size)
+      @size = size
+      @queue = []
+    end
+
+    # memasukkan data ke antrian
+    def enqueue(data)
+      raise QueueFull if full?
+
+      @queue << data
+    end
+
+    # mengeluarkan data pertama dari antrian
+    def dequeue
+      raise QueueEmpty if empty?
+
+      @queue.shift
+    end
+
+    # melihat jumlah antrian
+    def size
+      @queue.length
+    end
+
+    # cek antrian paling depan
+    def peek
+      @queue[0]
+    end
+
+    # untuk menghapus semua data antrian
+    def clear
+      @queue.clear
+    end
+
+    # check antrian full atau tidak
+    def full?
+      size == @size
+    end
+
+    # check antrian kosong atau tidak
+    def empty?
+      size.zero?
+    end
+  end
+```
