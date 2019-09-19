@@ -2,8 +2,8 @@
 
 ## Apa itu Queue ?
 Queue adalah structure data abstrak, agak mirip dengan Stacks. Tidak seperti Stacks, 
-queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk memasukkan data(enqueue)
- dan ujung yang lainnya digunakkan untuk menghapus data(dequeue). Queue mengikuti 
+queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk **memasukkan data(enqueue)**
+ dan ujung yang lainnya digunakkan untuk **menghapus data(dequeue)**. Queue mengikuti 
  metode First-In-First-Out, yaitu item data yang disimpan terlebih dahulu akan diakses 
  terlebih dahulu.
  
@@ -19,6 +19,23 @@ queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk memasukkan data(enq
    * **peek()** - mendapatkn elemen di depan antrian tanpa menghapusnya.
    * **isfull()** - memeriksa apakah antrian penuh
    * **isempty()** - memeriksa apakah antrian penuh
+
+## Queue sebagai Abstrack Data Type (ADT)
+
+> Penjelasan tentang ADT ada di [sini](https://www.geeksforgeeks.org/abstract-data-types/)  
+
+Arti dari tipe data abstrak dengan jelas mengatakan bahwa untuk struktur data menjadi abstrak, itu harus memiliki karakteristik yang disebutkan di bawah ini:
+
+1. Pertama, harus ada cara tertentu di mana komponen terkait satu sama lain
+2. Kedua, pernyataan untuk operasi yang dapat dilakukan pada elemen tipe data abstrak harus ditentukan
+
+Jadi untuk mendefinisikan Queue sebagai tipe data abstrak, ini adalah kriteria berikut:
+ * Inisialisasi antrian agar kosong
+ * Periksa apakah antrian kosong atau tidak
+ * Periksa apakah antrian penuh atau tidak
+ * Masukkan elemen baru setelah elemen terakhir dalam antrian, jika antrian tidak penuh
+ * Ambil elemen antrian pertama, jika tidak kosong
+ * Hapus elemen pertama dalam antrian, jika tidak kosong
 
 ## Contoh Kode Ruby
 Contoh implementasi kode Ruby untuk queue
@@ -78,3 +95,5 @@ Contoh implementasi kode Ruby untuk queue
 
 ## Referensi
 * [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm) - dsa queue.
+* [w3schools](https://www.w3schools.in/data-structures-tutorial/queue/) - queue.
+* [geeksforgeeks](https://www.geeksforgeeks.org/abstract-data-types/) - abstract data types.
