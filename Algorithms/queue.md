@@ -75,3 +75,6 @@ Contoh implementasi kode Ruby untuk queue
     end
   end
 ```
+
+## Referensi
+* [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm) - dsa queue.
