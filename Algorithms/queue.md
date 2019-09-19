@@ -14,11 +14,11 @@ queue terbuka di kedua ujungnya. Satu ujung digunakkan untuk memasukkan data(enq
  Operasi queue melibatkan menginisialisasi atau mendefinisikan antrian, menggunakkan 
  dan kemudian menghapusnya dari memori. 
  Berikut beberapa contoh operasi dasar queue :
-   * enqueue() - menambahkan(menyimpan) item ke antrian.
-   * dequeue() - menghapus(mengakses) item dari antrian.
-   * peek() - mendapatkn elemen di depan antrian tanpa menghapusnya.
-   * isfull() - memeriksa apakah antrian penuh
-   * isempty() - memeriksa apakah antrian penuh
+   * **enqueue()** - menambahkan(menyimpan) item ke antrian.
+   * **dequeue()** - menghapus(mengakses) item dari antrian.
+   * **peek()** - mendapatkn elemen di depan antrian tanpa menghapusnya.
+   * **isfull()** - memeriksa apakah antrian penuh
+   * **isempty()** - memeriksa apakah antrian penuh
 
 ## Contoh Kode Ruby
 Contoh implementasi kode Ruby untuk queue
