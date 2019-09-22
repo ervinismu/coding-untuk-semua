@@ -11,12 +11,12 @@
   - etc.
 8. Recursion
 9. Custome Data Structure
-10. Binary Search
+10. Binary Search  
     Pencarian Biner: Langkah-langkah tentang cara kerjanya:
     Untuk menemukan indeks elemen e dengan nilai tertentu:
-    1. Mulai dengan array yang diurutkan dalam urutan menurun.
-    2. Di setiap langkah: Pilih elemen tengah array m dan bandingkan dengan e. Jika nilai elemen sama, maka kembalikan indeks m. Jika e lebih besar dari m, maka e harus berada di subarray kiri. Jika m lebih besar dari e, maka e harus berada di subarray kanan.
-    3. Ulangi langkah-langkah itu di subarray baru.
+    * Mulai dengan array yang diurutkan dalam urutan menurun.
+    * Di setiap langkah: Pilih elemen tengah array m dan bandingkan dengan e. Jika nilai elemen sama, maka kembalikan indeks m. Jika e lebih besar dari m, maka e harus berada di subarray kiri. Jika m lebih besar dari e, maka e harus berada di subarray kanan.
+    * Ulangi langkah-langkah itu di subarray baru.
     ```ruby
       # CONTOH KODE BINARY SEARCH
       def binary_search(array, item)
