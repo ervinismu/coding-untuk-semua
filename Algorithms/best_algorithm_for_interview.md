@@ -63,8 +63,10 @@
       array
     end
     ```
-    
+
 ## Referensi
 * [geeksforgeeks](https://www.geeksforgeeks.org/bubble-sort/) - bubble sort
 * [hackerrank](https://www.youtube.com/watch?v=6Gv8vg0kcHc) - bubble sort video
 * [coderwall](https://coderwall.com/p/ssdcua/bubble-sort-in-ruby) - bubble sort in ruby
+* [quora](https://www.quora.com/Which-sorting-algorithm-is-best-and-why) - which sorting algorithm is best and why
+* [medium](https://medium.com/@limichelle21/read-it-learn-it-build-it-sorting-algorithms-in-ruby-ead04b04baa6) - read it learn it sorting algorithms in ruby
