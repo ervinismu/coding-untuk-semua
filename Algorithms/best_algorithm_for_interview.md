@@ -4,11 +4,7 @@
 4. Hash Tables
 5. Variable/Pointers Manupulation
 6. Reversing a Linked List
-7. Sorting Fundamentals
-  - Quick sort
-  - Merge Sort
-  - Bubble sort
-  - etc.
+7. Quick Sort
 8. Recursion
 9. Custome Data Structure
 10. Binary Search  
@@ -47,4 +43,24 @@
         puts "#{item} tidak ditemukkan didalam array." if first_index > last_index
       end
     ```
-
+11. Quick sort
+12. Merge Sort
+13. Bubble sort
+    Bubble sort adalah algoritma pengurutan yang sederhana, bekerja dengan berulang kali untuk menukar element yang berdekatan jika urutannya salah.
+  ```ruby
+  def bubble_sort(array)
+    swapped     = true
+    total_array = array.length
+    while swapped do
+      swapped = false
+      (total_array - 1).times do |i|
+        if array[i] > array[i+1]
+          array[i], array[i+1] = array[i+1], array[i]
+          swapped = true
+        end
+      end
+      break if swapped == false
+    end
+    array
+  end
+  ```
