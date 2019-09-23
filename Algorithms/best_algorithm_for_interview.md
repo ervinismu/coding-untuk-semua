@@ -1,15 +1,14 @@
-1. Depth First Search
-2. Breadth First Search
-3. Matching Parenthesis
-4. Hash Tables
-5. Variable/Pointers Manupulation
-6. Reversing a Linked List
-7. Quick Sort
-8. Recursion
-9. Custome Data Structure
-10. Binary Search  
-    Pencarian Biner: Langkah-langkah tentang cara kerjanya:
-    Untuk menemukan indeks elemen e dengan nilai tertentu:
+1. **Depth First Search**
+2. **Breadth First Search**
+3. **Matching Parenthesis**
+4. **Hash Tables**
+5. **Variable/Pointers Manupulation**
+6. **Reversing a Linked List**
+7. **Quick Sort**
+8. **Recursion**
+9. **Custome Data Structure**
+10. **Binary Search**  
+    `Pencarian Biner`: Langkah-langkah tentang cara kerjanya, untuk menemukan indeks elemen e dengan nilai tertentu:
     * Mulai dengan array yang diurutkan dalam urutan menurun.
     * Di setiap langkah: Pilih elemen tengah array m dan bandingkan dengan e. Jika nilai elemen sama, maka kembalikan indeks m. Jika e lebih besar dari m, maka e harus berada di subarray kiri. Jika m lebih besar dari e, maka e harus berada di subarray kanan.
     * Ulangi langkah-langkah itu di subarray baru.
@@ -43,10 +42,10 @@
         puts "#{item} tidak ditemukkan didalam array." if first_index > last_index
       end
     ```
-11. Quick sort
-12. Merge Sort
-13. Bubble sort
-    Bubble sort adalah algoritma pengurutan yang sederhana, bekerja dengan berulang kali untuk menukar element yang berdekatan jika urutannya salah.
+11. **Quick Sort**
+12. **Merge Sort**
+13. **Bubble Sort**  
+    `Bubble Sort` adalah algoritma pengurutan yang sederhana, bekerja dengan berulang kali untuk menukar element yang berdekatan jika urutannya salah.
     ```ruby
     def bubble_sort(array)
       swapped     = true
@@ -64,3 +63,8 @@
       array
     end
     ```
+    
+## Referensi
+* [geeksforgeeks](https://www.geeksforgeeks.org/bubble-sort/) - bubble sort
+* [hackerrank](https://www.youtube.com/watch?v=6Gv8vg0kcHc) - bubble sort video
+* [coderwall](https://coderwall.com/p/ssdcua/bubble-sort-in-ruby) - bubble sort in ruby
