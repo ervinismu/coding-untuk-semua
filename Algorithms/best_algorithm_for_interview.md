@@ -47,20 +47,20 @@
 12. Merge Sort
 13. Bubble sort
     Bubble sort adalah algoritma pengurutan yang sederhana, bekerja dengan berulang kali untuk menukar element yang berdekatan jika urutannya salah.
-  ```ruby
-  def bubble_sort(array)
-    swapped     = true
-    total_array = array.length
-    while swapped do
-      swapped = false
-      (total_array - 1).times do |i|
-        if array[i] > array[i+1]
-          array[i], array[i+1] = array[i+1], array[i]
-          swapped = true
+    ```ruby
+    def bubble_sort(array)
+      swapped     = true
+      total_array = array.length
+      while swapped do
+        swapped = false
+        (total_array - 1).times do |i|
+          if array[i] > array[i+1]
+            array[i], array[i+1] = array[i+1], array[i]
+            swapped = true
+          end
         end
+        break if swapped == false
       end
-      break if swapped == false
+      array
     end
-    array
-  end
-  ```
+    ```
