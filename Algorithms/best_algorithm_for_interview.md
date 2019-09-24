@@ -65,6 +65,7 @@
     ```
 
 ## Referensi
+* [geeksforgeeks](https://www.youtube.com/watch?v=JSceec-wEyw) - Merge sort video
 * [geeksforgeeks](https://www.geeksforgeeks.org/bubble-sort/) - bubble sort
 * [hackerrank](https://www.youtube.com/watch?v=6Gv8vg0kcHc) - bubble sort video
 * [coderwall](https://coderwall.com/p/ssdcua/bubble-sort-in-ruby) - bubble sort in ruby
