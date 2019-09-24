@@ -71,3 +71,6 @@ Jika array memiliki 1.000 item, kita harus mencetak 1.000.000 kali.
 ```
 Kedua metode ini memiliki `O(n)` runtime, meskipun yang satu mengambil integer sebagai inputnya dan yang lain mengambil array.  
 Terkadang `n` adalah angka aktual yang merupakkan input untuk metode, dan lain kali `n` adalah jumlah item dalam array input.
+
+# Referensi
+* [bigonotationcheatsheet](https://www.bigocheatsheet.com/)
