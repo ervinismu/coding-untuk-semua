@@ -128,6 +128,61 @@
       array
     end
     ```
+14. **Queue**
+    ```ruby
+      class MyQueue
+        # untuk melakukkan error handling
+        QueueFull  = Class.new(StandardError)
+        QueueEmpty = Class.new(StandardError)
+
+        attr_reader :queue
+
+        def initialize(size)
+          @size = size
+          @queue = []
+        end
+
+        # memasukkan data ke antrian
+        def enqueue(data)
+          raise QueueFull if full?
+
+          @queue << data
+        end
+
+        # mengeluarkan data pertama dari antrian
+        def dequeue
+          raise QueueEmpty if empty?
+
+          @queue.shift
+        end
+
+        # melihat jumlah antrian
+        def size
+          @queue.length
+        end
+
+        # cek antrian paling depan
+        def peek
+          @queue[0]
+        end
+
+        # untuk menghapus semua data antrian
+        def clear
+          @queue.clear
+        end
+
+        # check antrian full atau tidak
+        def full?
+          size == @size
+        end
+
+        # check antrian kosong atau tidak
+        def empty?
+          size.zero?
+        end
+      end
+    ```
+
 
 ## Referensi
 * [geeksforgeeks](https://www.youtube.com/watch?v=JSceec-wEyw) - Merge sort video
