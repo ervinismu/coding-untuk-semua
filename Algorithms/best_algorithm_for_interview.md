@@ -136,7 +136,8 @@
         QueueEmpty = Class.new(StandardError)
 
         attr_reader :queue
-
+    
+        # constructor
         def initialize(size)
           @size = size
           @queue = []
@@ -151,6 +152,7 @@
 
         # mengeluarkan data pertama dari antrian
         def dequeue
+          # menampilkan error jika data kosong
           raise QueueEmpty if empty?
 
           @queue.shift
