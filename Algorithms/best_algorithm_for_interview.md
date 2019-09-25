@@ -53,6 +53,8 @@
     ```
 
 11. **Quick Sort**
+    Quick Sort adalah algoritma penyortiran yang sangat efisien dan didasarkan pada pemartisian array data menjadi array yang lebih kecil. Sebuah array besar dipartisi menjadi dua array yang salah satunya menyimpan nilai lebih kecil dari nilai yang ditentukan, katakan pivot, berdasarkan pada mana partisi dibuat dan array lain memiliki nilai lebih besar dari nilai pivot.
+    Quick Sort sebuah partisi dan panggil dirinya secara berulang dua kali untuk mengurutkan dua sub-panel yang dihasilkan. Algoritma ini cukup efisien untuk set data berukuran besar karena kompleksitas kasus rata-rata dan terburuknya adalah O(n2), di mana n adalah jumlah item.
     ```ruby
     def quick_sort(a,lo,hi)
       if lo < hi
@@ -95,7 +97,7 @@
     quick_sort([12,3,1,2,4,70,89,3,3],0,8)
     ```
 
-12. **Merge Sort**
+12. **Merge Sort**  
     Merge sort adalah teknik pemilihan berdasrkan teknik divide and conquer. Dengan kompleksitas waktu terburuk menjadi O(nlogn). Pertama-tama membagi array menjadi dua bagian yang sama dan kemudian menggabungkannya dengan cara diurutkan.  
     Langkah-langkah kerja merge sort :
     - Langkah 1 - jika hanya satu elemen dalam daftar itu sudah diurutkan, kembali.
