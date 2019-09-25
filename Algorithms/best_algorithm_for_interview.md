@@ -1,12 +1,21 @@
 1. **Depth First Search**
+
 2. **Breadth First Search**
+
 3. **Matching Parenthesis**
+
 4. **Hash Tables**
+
 5. **Variable/Pointers Manupulation**
+
 6. **Reversing a Linked List**
+
 7. **Quick Sort**
+
 8. **Recursion**
+
 9. **Custome Data Structure**
+
 10. **Binary Search**  
     `Pencarian Biner`: Langkah-langkah tentang cara kerjanya, untuk menemukan indeks elemen e dengan nilai tertentu:
     * Mulai dengan array yang diurutkan dalam urutan menurun.
@@ -42,6 +51,7 @@
         puts "#{item} tidak ditemukkan didalam array." if first_index > last_index
       end
     ```
+
 11. **Quick Sort**
     ```ruby
     def quick_sort(a,lo,hi)
@@ -84,7 +94,13 @@
 
     quick_sort([12,3,1,2,4,70,89,3,3],0,8)
     ```
+
 12. **Merge Sort**
+    Merge sort adalah teknik pemilihan berdasrkan teknik divide and conquer. Dengan kompleksitas waktu terburuk menjadi O(nlogn). Pertama-tama membagi array menjadi dua bagian yang sama dan kemudian menggabungkannya dengan cara diurutkan.  
+    Langkah-langkah kerja merge sort :
+    - Langkah 1 - jika hanya satu elemen dalam daftar itu sudah diurutkan, kembali.
+    - Langkah 2 - bagilah daftar secara rekursif menjadi dua bagian sampai tidak dapat lagi dibagi.
+    - Langkah 3 - menggabungkan daftar yang lebih kecil ke dalam daftar baru dalam urutan diurutkan.
     ```ruby
     def merge_sort(array)
       if array.length <= 1
@@ -109,6 +125,7 @@
       end
     end
     ```
+
 13. **Bubble Sort**  
     `Bubble Sort` adalah algoritma pengurutan yang sederhana, bekerja dengan berulang kali untuk menukar element yang berdekatan jika urutannya salah.
     ```ruby
@@ -128,6 +145,7 @@
       array
     end
     ```
+
 14. **Queue**
     ```ruby
       class MyQueue
@@ -184,7 +202,6 @@
         end
       end
     ```
-
 
 ## Referensi
 * [geeksforgeeks](https://www.youtube.com/watch?v=JSceec-wEyw) - Merge sort video
