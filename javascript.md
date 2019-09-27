@@ -2,11 +2,11 @@
 Resources for learning Javascript, open contribute :
 
 ### Javascript Basics
--  [Javascript Introduction | @w3schools](https://www.w3schools.com/js/default.asp)
--  [Introduction to Javascript | @codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
--  [Javascript | @egghead](https://egghead.io/search?query=javascript)
--  [The Javascript Language | @javascript.io](https://javascript.info/)
--  [30 Days of Javascript | @hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+-  [w3schools](https://www.w3schools.com/js/default.asp) - javascript introduction
+-  [codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - Introduction to javascript
+-  [egghead](https://egghead.io/search?query=javascript) - javascript courses
+-  [javascript.io](https://javascript.info/) - javascript info
+-  [hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) - 10 days of javascript
 
 ### Nodejs Basics
 -  [Nodejs Introduction | @w3schools](https://www.w3schools.com/nodejs/default.asp)
