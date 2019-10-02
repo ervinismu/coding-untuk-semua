@@ -9,5 +9,6 @@ Resources for learning Javascript, open contribute :
 -  [hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) - 10 days of javascript
 
 ### Nodejs Basics
--  [Nodejs Introduction | @w3schools](https://www.w3schools.com/nodejs/default.asp)
--  [Nodejs for Beginners | @thenetninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&index=1&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+-  [Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ) - What is Nodejs?
+-  [W3schools](https://www.w3schools.com/nodejs/default.asp) - Nodejs Introduction
+-  [Thenetninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&index=1&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - Nodejs for Beginners
