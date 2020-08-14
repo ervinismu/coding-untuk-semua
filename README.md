@@ -2,12 +2,7 @@
 
 :fire: :sunglasses: :fire:
 
-### Algorithm and Data Structures
-* [Big O Notation](https://github.com/ervinismu/everyone-write-code/blob/master/Algorithms/bigoNotation.md)
-* [Recursive](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/recursion.md)
-* [Queue](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/queue.md)
-
-### Programming Lang
+### Programming Language
 *  [General](https://github.com/ervinismu/everyone-write-code/blob/master/general.md)
 *  [Javascript](https://github.com/ervinismu/everyone-write-code/blob/master/javascript.md)
 *  [Ruby](https://github.com/ervinismu/everyone-write-code/blob/master/ruby.md)
