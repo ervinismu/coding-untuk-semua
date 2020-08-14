@@ -2,19 +2,21 @@
 
 :fire: :sunglasses: :fire:
 
-### Programming Language
-*  [General](https://github.com/ervinismu/everyone-write-code/blob/master/general.md)
-*  [Javascript](https://github.com/ervinismu/everyone-write-code/blob/master/javascript.md)
-*  [Ruby](https://github.com/ervinismu/everyone-write-code/blob/master/ruby.md)
-*  [Golang](https://github.com/ervinismu/everyone-write-code/blob/master/golang.md)
-*  [Python](https://github.com/ervinismu/everyone-write-code/blob/master/python.md)
-*  [Elixir](https://github.com/ervinismu/everyone-write-code/blob/master/elixir.md)
-
-### Tools
+### Alat dan produktivitas
 * [Git](https://github.com/ervinismu/coding-untuk-semua/blob/master/git.md)
 * [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/)
 
-## Cheat Sheet
+### Algoritma dan Struktur Data
+* -
+
+### Bahasa Pemrograman
+*  [Elixir](https://github.com/ervinismu/everyone-write-code/blob/master/elixir.md)
+*  [Golang](https://github.com/ervinismu/everyone-write-code/blob/master/golang.md)
+*  [Javascript](https://github.com/ervinismu/everyone-write-code/blob/master/javascript.md)
+*  [Python](https://github.com/ervinismu/everyone-write-code/blob/master/python.md)
+*  [Ruby](https://github.com/ervinismu/everyone-write-code/blob/master/ruby.md)
+
+## Contekan
 * [VIM Cheat Sheet](https://gist.github.com/ervinismu/dc438d3668dbacb04ab36c65c4fb5570)
 * [Linux Command](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
