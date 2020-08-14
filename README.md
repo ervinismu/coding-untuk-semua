@@ -1,13 +1,13 @@
-# Resources
+# Coding Untuk Semua
 
->  Coding Untuk Semua! :fire: :sunglasses: :fire:
+:fire: :sunglasses: :fire:
 
-### Algoritma dan Struktur Data
+### Algorithm and Data Structures
 * [Big O Notation](https://github.com/ervinismu/everyone-write-code/blob/master/Algorithms/bigoNotation.md)
 * [Recursive](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/recursion.md)
 * [Queue](https://github.com/ervinismu/coding-untuk-semua/blob/master/Algorithms/queue.md)
 
-### Bahasa Pemrograman:
+### Programming Lang
 *  [General](https://github.com/ervinismu/everyone-write-code/blob/master/general.md)
 *  [Javascript](https://github.com/ervinismu/everyone-write-code/blob/master/javascript.md)
 *  [Ruby](https://github.com/ervinismu/everyone-write-code/blob/master/ruby.md)
@@ -15,15 +15,14 @@
 *  [Python](https://github.com/ervinismu/everyone-write-code/blob/master/python.md)
 *  [Elixir](https://github.com/ervinismu/everyone-write-code/blob/master/elixir.md)
 
-### Alat dan Produktivitas
+### Tools
+* [Git](https://github.com/ervinismu/coding-untuk-semua/blob/master/git.md)
+* [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/)
 
-| Nama        | Keterangan           |
-| ------------- |---------------|
-| [Git](https://github.com/ervinismu/coding-untuk-semua/blob/master/git.md)                                                           | Sistem kontrol versi terdistribusi open source. |
-| [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/)                                       | GitLab CI / CD adalah alat yang dibangun ke oleh GitLab untuk pengembangan perangkat lunak melalui continuous methodologies      |
-| [Linux Command](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)  | Perintah dasar linux.      |
-| [VIM Cheat Sheet](https://gist.github.com/ervinismu/dc438d3668dbacb04ab36c65c4fb5570) | Cheat Sheet untuk menggunakan editor Vim. |
+## Cheat Sheet
+* [VIM Cheat Sheet](https://gist.github.com/ervinismu/dc438d3668dbacb04ab36c65c4fb5570)
+* [Linux Command](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
-### Interview:
+### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
