@@ -1,13 +1,9 @@
-# Coding Untuk Semua
+# :fire: Coding Untuk Semua :fire:
 
-:fire: :sunglasses: :fire:
 
 ### Alat dan produktivitas
 * [Git](https://github.com/ervinismu/coding-untuk-semua/blob/master/git.md)
 * [Gitlab-ci.yml](https://docs.gitlab.com/ee/ci/)
-
-### Algoritma dan Struktur Data
-* -
 
 ### Bahasa Pemrograman
 *  [Elixir](https://github.com/ervinismu/everyone-write-code/blob/master/elixir.md)
