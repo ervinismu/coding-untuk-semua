@@ -32,3 +32,5 @@
 -   [Rails Style Guides](https://github.com/rubocop-hq/rails-style-guide) - Rubocop for Ruby on Rails style guide.
 -   [Rails speedshop](https://www.speedshop.co/blog/) - The #1 Rails performance blog on the web
 -   [Ruby on Rails free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails) - List of free Ruby on Rails books.
+    ### Tutorial
+    -   [auth](https://www.thegreatcodeadventure.com/jwt-auth-in-rails-from-scratch/) - jwt auth in rails from scratch
