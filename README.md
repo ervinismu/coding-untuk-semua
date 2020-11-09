@@ -18,6 +18,12 @@ resource links that can help us learn programming
 *  [Python](/programming-lang/python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 *  [Ruby](/programming-lang/ruby.md) - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
+### Open Source Projects :
+* Ruby on Rails :
+    - [Martodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
+    - [Quran](https://github.com/quran/quran.com-frontend-v2) - The official source code repository for Quran.com 
+    - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe develops advanced marketplace software for every business life cycle stage.
+
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
