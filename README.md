@@ -19,7 +19,8 @@ resource links that can help us learn programming
 *  [Ruby](/programming-lang/ruby.md) - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
 ### Open Source Projects :
-* Ruby on Rails :
+Grouping based on the programming language that takes the most part in the project.
+* Ruby :
     - [Martodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
     - [Quran](https://github.com/quran/quran.com-frontend-v2) - The official source code repository for Quran.com 
     - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe develops advanced marketplace software for every business life cycle stage.
