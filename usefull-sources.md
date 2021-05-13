@@ -1,0 +1,2 @@
+- [Heroicons](heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
