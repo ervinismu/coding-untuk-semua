@@ -10,6 +10,8 @@ resource links that can help us learn programming
 
 ### Tools
 * [Git](/tools/git.md) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+
 
 ### Programming Lang
 *  [Elixir](/programming-lang/elixir.md) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
