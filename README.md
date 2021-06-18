@@ -30,6 +30,7 @@ List of open sources projects
   - [Quran](https://github.com/quran/quran.com-frontend-v2) - The official source code repository for Quran.com 
   - [Sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe develops advanced marketplace software for every business life cycle stage.
   - [Linux](oss-projects/linux.md) - Linux is a family of open-source Unix-like operating systems based on the Linux kernel.
+  - [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
