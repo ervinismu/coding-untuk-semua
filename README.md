@@ -41,6 +41,7 @@ List of open sources projects
   - [Evan You](https://twitter.com/youyuxi) Twitter - Creator Vuejs
   - [Nat Friedman](https://twitter.com/natfriedman) Twitter - CEO Github
   - [Chris Coyier](https://twitter.com/chriscoyier) Twitter - Co-Founder Codepen
+  - [Adam Wathan](https://twitter.com/adamwathan) Twitter - Creator Tailwindcss
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
