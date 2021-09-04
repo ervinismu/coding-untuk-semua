@@ -34,7 +34,8 @@ List of open sources projects
   - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ### Developer Podcast :
-  - [Curiefense](https://podcast.curiefense.io/episodes) - Commiting to cloud native
+  - [Curiefense](https://podcast.curiefense.io/episodes) | english - Commiting to cloud native
+  - [Ceritanya Developer](https://anchor.fm/ceritanya-developer) | bahasa indonesia - Ceritanya Developer Podcast
  
 ### People on social media you can follow to learn :
   - twitter | [DHH](https://twitter.com/dhh) - Creator Ruby on Rails
