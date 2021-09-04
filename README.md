@@ -42,6 +42,7 @@ List of open sources projects
   - [Nat Friedman](https://twitter.com/natfriedman) Twitter - CEO Github
   - [Chris Coyier](https://twitter.com/chriscoyier) Twitter - Co-Founder Codepen
   - [Adam Wathan](https://twitter.com/adamwathan) Twitter - Creator Tailwindcss
+  - [JoseValim](https://twitter.com/josevalim) Twitter - Creator ElixirLang
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
