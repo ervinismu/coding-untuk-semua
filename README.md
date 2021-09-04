@@ -33,6 +33,9 @@ List of open sources projects
   - [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
   - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
+### Developer Podcast :
+  - [Curiefense](https://podcast.curiefense.io/episodes) - Commiting to cloud native
+
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
