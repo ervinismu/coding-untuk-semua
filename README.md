@@ -35,6 +35,11 @@ List of open sources projects
 
 ### Developer Podcast :
   - [Curiefense](https://podcast.curiefense.io/episodes) - Commiting to cloud native
+ 
+### People on social media you can follow to learn :
+  - [DHH](https://twitter.com/dhh) Twitter - Creator Ruby on Rails
+  - [Evan You](https://twitter.com/youyuxi) Twitter - Creator Vuejs
+  - [Nat Friedman](https://twitter.com/natfriedman) Twitter - CEO Github
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
