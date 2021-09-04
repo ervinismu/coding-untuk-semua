@@ -37,12 +37,12 @@ List of open sources projects
   - [Curiefense](https://podcast.curiefense.io/episodes) - Commiting to cloud native
  
 ### People on social media you can follow to learn :
-  - [DHH](https://twitter.com/dhh) Twitter - Creator Ruby on Rails
-  - [Evan You](https://twitter.com/youyuxi) Twitter - Creator Vuejs
-  - [Nat Friedman](https://twitter.com/natfriedman) Twitter - CEO Github
-  - [Chris Coyier](https://twitter.com/chriscoyier) Twitter - Co-Founder Codepen
-  - [Adam Wathan](https://twitter.com/adamwathan) Twitter - Creator Tailwindcss
-  - [JoseValim](https://twitter.com/josevalim) Twitter - Creator ElixirLang
+  - twitter | [DHH](https://twitter.com/dhh) - Creator Ruby on Rails
+  - twitter | [Evan You](https://twitter.com/youyuxi) - Creator Vuejs
+  - twitter | [Nat Friedman](https://twitter.com/natfriedman) - CEO Github
+  - twitter | [Chris Coyier](https://twitter.com/chriscoyier) - Co-Founder Codepen
+  - twitter | [Adam Wathan](https://twitter.com/adamwathan) - Creator Tailwindcss
+  - twitter | [JoseValim](https://twitter.com/josevalim) - Creator ElixirLang
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
