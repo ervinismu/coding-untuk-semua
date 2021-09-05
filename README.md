@@ -47,7 +47,7 @@ List of open sources projects
 
 ### Programming Fonts :
   - [Fira Code](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
-  - [Jerbrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains Mono. A typeface for developers.
+  - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains Mono. A typeface for developers.
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
