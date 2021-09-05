@@ -45,6 +45,10 @@ List of open sources projects
   - twitter | [Adam Wathan](https://twitter.com/adamwathan) - Creator Tailwindcss
   - twitter | [JoseValim](https://twitter.com/josevalim) - Creator ElixirLang
 
+### Programming Fonts :
+  - [Fira Code](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
+  - [Jerbrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains Mono. A typeface for developers.
+
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
