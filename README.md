@@ -51,6 +51,11 @@ List of open sources projects
   - [Fira Code](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains Mono. A typeface for developers.
 
+### CI/CD
+  - [Gitlab Ci](https://docs.gitlab.com/ee/ci/) - GitLab CI/CD is a tool for software development using the continuous methodologies.
+  - [Github Action](https://github.com/features/actions) - Automate your workflow from idea to production.
+  - [Circle CI](https://circleci.com/) - Automate your development process with continuous integration in our cloud or on your own infrastructure.
+
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
