@@ -38,6 +38,7 @@ List of open sources projects
 ### Developer Podcast :
   - [Curiefense](https://podcast.curiefense.io/episodes) | english - Commiting to cloud native
   - [Ceritanya Developer](https://anchor.fm/ceritanya-developer) | bahasa indonesia - Ceritanya Developer Podcast
+  - [Fullstackradio](https://fullstackradio.com/) - A podcast for developers interested in building great software products. Hosted by Adam Wathan.
  
 ### People on social media you can follow to learn :
   - twitter | [DHH](https://twitter.com/dhh) - Creator Ruby on Rails
