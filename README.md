@@ -10,11 +10,14 @@ resource links that can help us learn programming
   - [Atom](https://atom.io/) - Free and open source text editor, brought to you by GitHub.
   - [Sublimetext](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
 
+---
+
 ### Developer Tools
 * [Git](/tools/git.md) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 * [utopia.app](https://utopia.app/) - A design and coding environment for React projects and components that runs in the browser.
 
+---
 
 ### Programming Lang
 *  [Elixir](/programming-lang/elixir.md) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
@@ -22,6 +25,8 @@ resource links that can help us learn programming
 *  [Javascript](/programming-lang/javascript.md) - is a scripting or programming language that allows you to implement complex features on web pages.
 *  [Python](/programming-lang/python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 *  [Ruby](/programming-lang/ruby.md) - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+---
 
 ### Open Source Projects :
 List of open sources projects
@@ -35,11 +40,15 @@ List of open sources projects
   - [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
   - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
+---
+
 ### Developer Podcast :
   - [Curiefense](https://podcast.curiefense.io/episodes) | english - Commiting to cloud native
   - [Ceritanya Developer](https://anchor.fm/ceritanya-developer) | bahasa indonesia - Ceritanya Developer Podcast
   - [Fullstackradio](https://fullstackradio.com/) - A podcast for developers interested in building great software products. Hosted by Adam Wathan.
- 
+
+---
+
 ### People on social media you can follow to learn :
   - twitter | [DHH](https://twitter.com/dhh) - Creator Ruby on Rails
   - twitter | [Evan You](https://twitter.com/youyuxi) - Creator Vuejs
@@ -48,14 +57,28 @@ List of open sources projects
   - twitter | [Adam Wathan](https://twitter.com/adamwathan) - Creator Tailwindcss
   - twitter | [JoseValim](https://twitter.com/josevalim) - Creator ElixirLang
 
+---
+
+### Official Blog
+  - [shopify engineering](https://shopify.engineering/) - Stories from the teams who build and scale Shopify.
+  - [netflixtechblog](https://netflixtechblog.com/) - The Netflix Tech Blog
+  - [github blog](https://github.blog/) - Read up on product innovations and updates, company announcements, community spotlights, and more.
+  - [airbnb engineering](https://medium.com/airbnb-engineering) - A deeper look into how our Engineers and Data Scientists build a world of belonging
+
+---
+
 ### Programming Fonts :
   - [Fira Code](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains Mono. A typeface for developers.
 
-### CI/CD
+---
+
+### CI/CD Tools
   - [Gitlab Ci](https://docs.gitlab.com/ee/ci/) - GitLab CI/CD is a tool for software development using the continuous methodologies.
   - [Github Action](https://github.com/features/actions) - Automate your workflow from idea to production.
   - [Circle CI](https://circleci.com/) - Automate your development process with continuous integration in our cloud or on your own infrastructure.
+
+---
 
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
