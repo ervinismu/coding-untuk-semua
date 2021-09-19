@@ -6,6 +6,10 @@ resource links that can help us learn programming
 
 ### Table of Contents
   - [Text Editor](#text-editor)
+  - [Developer Tools](#developet-tools)
+  - [Programming Lang](#programming-lang)
+  - [Open Source Projects](#open-source-projects)
+  - [Developer Podcast](#developer-podcast)
 
 ### 1. Text Editor
 | No | Name | Detail |
