@@ -5,10 +5,10 @@ resource links that can help us learn programming
 ```
 
 ### 1. Text Editor
-- [VIM](/text-editor/vim.md) Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
-- [Visual Studio Code](/text-editor/visual-studio-code.md) Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
-- [Atom](https://atom.io/) Free and open source text editor, brought to you by GitHub.
-- [Sublimetext](https://www.sublimetext.com/) A sophisticated text editor for code, markup and prose.
+- 1.1 [VIM](/text-editor/vim.md) Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
+- 1.2. [Visual Studio Code](/text-editor/visual-studio-code.md) Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
+- 1.3 [Atom](https://atom.io/) Free and open source text editor, brought to you by GitHub.
+- 1.4 [Sublimetext](https://www.sublimetext.com/) A sophisticated text editor for code, markup and prose.
 
 ### 1. Text Editor
 | No | Name | Detail |
