@@ -4,6 +4,9 @@ resource links that can help us learn programming
 "tautan sumber daya yang dapat membantu kita mempelajari pemrograman"
 ```
 
+### Table of Contents
+  - [Text Editor](#text-editor)
+
 ### 1. Text Editor
 | No | Name | Detail |
 | :---: | :---: | :--- |
