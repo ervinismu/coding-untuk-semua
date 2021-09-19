@@ -4,13 +4,6 @@ resource links that can help us learn programming
 "tautan sumber daya yang dapat membantu kita mempelajari pemrograman"
 ```
 
-### Table of Contents
-  - [Text Editor](#1.-text-editor)
-  - [Developer Tools](#2.-developet-tools)
-  - [Programming Lang](#3.-programming-lang)
-  - [Open Source Projects](#4.-open-source-projects)
-  - [Developer Podcast](#5.-developer-podcast)
-
 ### 1. Text Editor
 | No | Name | Detail |
 | :---: | :---: | :--- |
