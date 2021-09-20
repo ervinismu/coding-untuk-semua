@@ -87,6 +87,12 @@ resource links that can help us learn programming
 
 ---
 
+### 10. Official Company Job Portals
+
+- 10.1 [medium.com](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e) - Work at medium.com
+
+---
+
 ### Interview
 *  [Backend Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 *  [Top 10 algorithms in interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
