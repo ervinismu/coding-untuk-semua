@@ -1,11 +1,14 @@
 >  Resources for learning lang and framework golang
 
 
-### Golang
+## Golang
 -   [Golang Ebook | @github.com/dariubs](https://github.com/dariubs/GoBooks)
 -   [Golang introduction | @traversymedia](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 
-### Tutorials
+## Books
+  - [how-to-code-in-go-ebook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - This book is designed to introduce you to writing programs with the Go programming language.
+
+## Tutorials
 -   [CRUD API gin-gorm | @medium.com/@cgrant](https://medium.com/@cgrant/developing-a-simple-crud-api-with-go-gin-and-gorm-df87d98e6ed1)
 -   [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
 -   [Create a Single Page App With Go, Echo and Vue | @scotch](https://scotch.io/tutorials/create-a-single-page-app-with-go-echo-and-vue)
