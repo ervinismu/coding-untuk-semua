@@ -1,8 +1,8 @@
 >  Resources for learning lang and framework golang
 
 ## Golang Official Sites
-  - [go.dev](https://go.dev/)
-  - [golang.org](https://golang.org/)
+  - [go.dev](https://go.dev/) - is the hub for Go users providing centralized and curated resources from across the Go ecosystem
+  - [golang.org](https://golang.org/) - is the home of the open source project and distribution
 
 ## Books
   - [how-to-code-in-go-ebook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - This book is designed to introduce you to writing programs with the Go programming language.
