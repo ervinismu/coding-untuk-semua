@@ -4,9 +4,13 @@
   - [go.dev](https://go.dev/) - is the hub for Go users providing centralized and curated resources from across the Go ecosystem
   - [golang.org](https://golang.org/) - is the home of the open source project and distribution
 
-## Books
+## Books (free)
+  - [golang-book](https://www.golang-book.com/books/intro) - An introduction to programming in Go
+  - [golangbootcamp](http://www.golangbootcamp.com/) - Everything you need to know to get started with Go.
+  - [go-for-javascript-developers](http://www.pazams.com/Go-for-Javascript-Developers/) - Go for Javascript Developers.
   - [how-to-code-in-go-ebook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - This book is designed to introduce you to writing programs with the Go programming language.
-  - [Golang Ebook | @github.com/dariubs](https://github.com/dariubs/GoBooks)
+  - [learning go](https://www.miek.nl/go/) - Learning go.
+  - [practical-go-lessons](https://www.practical-go-lessons.com/) - Practical go lessons.
 
 ## Tutorials
   - [Golang introduction | @traversymedia](https://www.youtube.com/watch?v=SqrbIlUwR0U)
