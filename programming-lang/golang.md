@@ -13,7 +13,7 @@
   - [practical-go-lessons](https://www.practical-go-lessons.com/) - Practical go lessons.
 
 ## Tutorials
-  - [go and gin](https://golang.org/doc/tutorial/web-service-gin) - Developing a RESTful API with Go and Gin
+  - [go and gin](https://golang.org/doc/tutorial/web-service-gin) - ( Official ) Developing a RESTful API with Go and Gin
   - [Golang introduction | @traversymedia](https://www.youtube.com/watch?v=SqrbIlUwR0U)
   - [CRUD API gin-gorm | @medium.com/@cgrant](https://medium.com/@cgrant/developing-a-simple-crud-api-with-go-gin-and-gorm-df87d98e6ed1)
   - [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
