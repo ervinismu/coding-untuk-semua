@@ -29,3 +29,5 @@
 
 ## Framework
   - [gin-gonic](https://gin-gonic.com/) - The fastest full-featured web framework for Go. Crystal clear.
+  - [gofiber](https://docs.gofiber.io/) - Express inspired web framework written in Go.
+  - [beego](https://beego.me/) - An open source framework to build and develop your applications in the Go way
