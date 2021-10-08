@@ -23,7 +23,8 @@
     -   [Railscasts](http://railscasts.com/) - Ruby on rails Screencasts
     -   [Hackerrank Ruby](https://www.hackerrank.com/domains/ruby)
     -   [Ruby Guides](https://www.rubyguides.com/) - Become A Ruby Programming Expert With RubyGuides
-   
+    -   [LearnToProgram](https://pine.fm/LearnToProgram/) - A Place to Start for the Future Programmer.
+
     ### Tutorials (Video)
     -   [Codecademy Ruby](https://www.codecademy.com/learn/learn-ruby) - Learn to code for free
 
