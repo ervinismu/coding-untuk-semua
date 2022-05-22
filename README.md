@@ -1,7 +1,7 @@
 # Coding Untuk Semua
 
 ```
-resource links that can help us learn programming
+Resource links that can help us learn programming
 "tautan sumber daya yang dapat membantu kita mempelajari pemrograman"
 ```
 
