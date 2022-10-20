@@ -3,6 +3,7 @@ About web development
 
 ## Animations
   - [animate.style](https://animate.style/) - Just-add-water CSS animations
+  - [anime.js](https://github.com/juliangarnier/anime/) - JavaScript animation engine
   - [motion.dev](https://motion.dev/) - Tiny size, huge performance.
 
 ## CSS Framework
