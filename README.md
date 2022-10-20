@@ -96,7 +96,7 @@ Resource links that can help us learn programming
 ### 11. Others
 
 - 11.1 [web development](web_dev.md) - About web development
-- 11.2 [list api](list_api.md) - List API you can use for development.
+- 11.2 [list api](list-api.md) - List API you can use for development.
 
 ---
 
