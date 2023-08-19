@@ -98,6 +98,12 @@ Resource links that can help us learn programming
 - 11.1 [web development](web_dev.md) - About web development
 - 11.2 [list api](/list-apis.md) - List API you can use for development.
 
+
+---
+
+### Links
+- [Cross-Site Request Forgery (CSRF) | Complete Guide](https://www.youtube.com/watch?v=7bTNMSqCMI0)
+
 ---
 
 ### 12. Courses
