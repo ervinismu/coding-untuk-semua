@@ -73,14 +73,14 @@ Resource links that can help us learn programming
 - [Effective Go](https://golang.org/doc/effective_go) - ( Official ) Effective Go.
 - [Go code](https://golang.org/doc/code) - ( Official ) How to write go code.
 - [go and gin](https://golang.org/doc/tutorial/web-service-gin) - ( Official ) Developing a RESTful API with Go and Gin
-- [Golang introduction | @traversymedia](https://www.youtube.com/watch?v=SqrbIlUwR0U)
-- [CRUD API gin-gorm | @medium.com/@cgrant](https://medium.com/@cgrant/developing-a-simple-crud-api-with-go-gin-and-gorm-df87d98e6ed1)
+- [Golang introduction - @traversymedia](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- [CRUD API gin-gorm - @medium.com/@cgrant](https://medium.com/@cgrant/developing-a-simple-crud-api-with-go-gin-and-gorm-df87d98e6ed1)
 - [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
-- [Create a Single Page App With Go, Echo and Vue | @scotch](https://scotch.io/tutorials/create-a-single-page-app-with-go-echo-and-vue)
-- [Build and Deploy a secure REST API with Go, Postgresql, JWT and GORM | @medium.com/@adigunhammedolalekan/](https://medium.com/@adigunhammedolalekan/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm-6fadf3da505b)
-- [Creating the JSON Web Token Signing and Validation Logic | @thepolyglotdeveloper](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
-- [Building a RESTful API in go | @netlify](https://www.netlify.com/blog/2016/10/20/building-a-restful-api-in-go/)
-- [Building Go Web Applications and Microservices Using Gin | @semaphoreci](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
+- [Create a Single Page App With Go, Echo and Vue - @scotch](https://scotch.io/tutorials/create-a-single-page-app-with-go-echo-and-vue)
+- [Build and Deploy a secure REST API with Go, Postgresql, JWT and GORM - @medium.com/@adigunhammedolalekan/](https://medium.com/@adigunhammedolalekan/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm-6fadf3da505b)
+- [Creating the JSON Web Token Signing and Validation Logic - @thepolyglotdeveloper](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
+- [Building a RESTful API in go - @netlify](https://www.netlify.com/blog/2016/10/20/building-a-restful-api-in-go/)
+- [Building Go Web Applications and Microservices Using Gin - @semaphoreci](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 - [gin-gonic](https://gin-gonic.com/) - The fastest full-featured web framework for Go. Crystal clear.
 - [gofiber](https://docs.gofiber.io/) - Express inspired web framework written in Go.
 - [beego](https://beego.me/) - An open source framework to build and develop your applications in the Go way
@@ -106,8 +106,8 @@ Resource links that can help us learn programming
 - [Restful api with python flask framework.](https://www.codementor.io/olawalealadeusi896/restful-api-with-python-flask-framework-and-postgres-db-part-1-kbrwbygx5)
 - [Flask Tutorial (tutorialspoint)](https://www.tutorialspoint.com/flask/index.htm)
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
-- [Learn and use machine learning | Tensorflow](https://www.tensorflow.org/tutorials/keras)
-- [Kursus Singkat Machine Learning dengan TensorFlow API | Google](https://developers.google.com/machine-learning/crash-course/)
+- [Learn and use machine learning - Tensorflow](https://www.tensorflow.org/tutorials/keras)
+- [Kursus Singkat Machine Learning dengan TensorFlow API - Google](https://developers.google.com/machine-learning/crash-course/)
 
 ### Ruby
 
